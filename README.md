@@ -20,12 +20,6 @@ Enter the unit you want to convert to: meters
 Enter the quantity: 10
 answer: 3.048 meters
 
-* The program uses simple formulas for the conversions:
-	+ 1 foot = 0.3048 meters
-	+ 1 pound = 0.453592 kilograms
-	+ (°F - 32) × 5/9 = °C
-* The program does not handle invalid input or errors, so please ensure that the user input is correct.
-
 **How to Run:**
 1. Open NetBeans and create a new Java project.
 2. Copy the provided code into a new Java class (`Converter.java`).
