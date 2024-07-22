@@ -15,9 +15,13 @@ it supports conversions from:
 3. The program will then print the result of the conversion to the user.
 
 **Example Usage:**
+
 Enter the unit you want to convert from: feet
+
 Enter the unit you want to convert to: meters
+
 Enter the quantity: 10
+
 answer: 3.048 meters
 
 **How to Run:**
